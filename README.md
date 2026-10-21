@@ -64,7 +64,13 @@ OopHomework1/
     └── Services/
         └── UserProfileService.cs
 ```
+## Запуск
 
+Из корневой папки проекта:
+
+```powershell
+dotnet run --project src/OopHomework1/OopHomework1.csproj
+```
 
 ## Ожидаемый результат
 
